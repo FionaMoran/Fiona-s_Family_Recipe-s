@@ -1,0 +1,36 @@
+
+/* Generic rule that can be applied to all background images*/
+.bg-image {
+  background-color: grey;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.bg-image-1 {
+  background-image: url("https://images.unsplash.com/photo-1546857098-b787ce02be9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=940&q=80");
+}
+
+.bg-image-2 {
+  background-image: url("https://images.unsplash.com/photo-1546857098-b787ce02be9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=940&q=80");
+}
+
+.bg-image-3 {
+  background-image: url("https://images.unsplash.com/photo-1501437638401-4addcfd56d3d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=933&q=80");
+}
+
+.bg-image-4 {
+  background-image: url("https://images.unsplash.com/photo-1508432310926-5712bcb79944?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=923&q=80");
+}
+
+.bg-image-5 {
+  background-image: url("https://images.unsplash.com/photo-1497534547324-0ebb3f052e88?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2580&q=80");
+}
+
+.bg-image-6 {
+  background-image: url("https://images.unsplash.com/photo-1519202270721-a737823482cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2548&q=80");
+}
+
+.bg-image-7 {
+  background-image: url("https://images.unsplash.com/photo-1551807501-9263ed1942d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80");
+}
